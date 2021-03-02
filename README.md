@@ -35,5 +35,10 @@ Second is normal user, who can:
 *borrow and reserve books. 
 *See what books have been read. 
 
+Password to login: 
+Login-Admin: admin@example.com
+Password-Admin: password
+Login to test user: justyna@example.com
+Password to test user: horyzont
 ######contact
 LinkedIn: https://www.linkedin.com/in/piotr-cie%C5%9Blik-65448710b/
